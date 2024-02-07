@@ -1,5 +1,5 @@
 /*
-C++ vector implemented with C
+    C++ vector implemented with C
 */
 #include "vector.h"
 #include <assert.h>
